@@ -1,0 +1,15 @@
+.post{
+    background-color: black;
+}
+.fas fa-elipsis-vertical{
+    image-orientation: right;
+}
+.secondicons{
+    image-orientation: left;
+}
+.fas fa-bookmark{
+    image-orientation: right   !important;
+}
+.ipsum{
+    word-wrap: break-word;
+}
