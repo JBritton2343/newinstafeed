@@ -13,3 +13,6 @@
 .ipsum{
     word-wrap: break-word;
 }
+.post{
+    align-self: center;
+}
